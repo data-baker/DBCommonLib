@@ -1,0 +1,6 @@
+framework module DBCommonLib {
+  umbrella header "DBCommonLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

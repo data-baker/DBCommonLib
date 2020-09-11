@@ -1,0 +1,16 @@
+PODS:
+  - DBCommonLib (0.1.0)
+
+DEPENDENCIES:
+  - DBCommonLib (from `../`)
+
+EXTERNAL SOURCES:
+  DBCommonLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DBCommonLib: 874c53ad170b53bea4f937833bf532ea690f6b58
+
+PODFILE CHECKSUM: 74ecab52accf930dc6fd667deab9311f3dcf710c
+
+COCOAPODS: 1.8.4

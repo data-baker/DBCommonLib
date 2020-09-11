@@ -1,0 +1,22 @@
+{
+  "name": "DBCommonLib",
+  "version": "0.1.0",
+  "summary": "A short description of DBCommonLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/李明辉/DBCommonLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李明辉": "liminghui@data-baker.com"
+  },
+  "source": {
+    "git": "https://github.com/李明辉/DBCommonLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DBCommonLib/Classes/**/*"
+}

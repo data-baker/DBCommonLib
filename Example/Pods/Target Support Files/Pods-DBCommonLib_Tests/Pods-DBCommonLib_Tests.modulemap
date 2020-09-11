@@ -1,0 +1,6 @@
+framework module Pods_DBCommonLib_Tests {
+  umbrella header "Pods-DBCommonLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
