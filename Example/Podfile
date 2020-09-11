@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DBCommonLib_Tests' do
+  pod 'DBCommonLib', :path => '../'
+  
+  
+end
