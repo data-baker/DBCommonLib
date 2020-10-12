@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DBCommonLib'
-  s.version          = '2.2.1'
+  s.version          = '2.2.2'
   s.summary          = '基础库'
   s.description      = <<-DESC
 语音合成、语音识别等SDK的基础库
